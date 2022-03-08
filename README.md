@@ -1,7 +1,7 @@
 # spy-selfbot
 A selfbot created by me, not so perfectly perfect.
 
-discord.gg/spy-op
+discord.gg/spyop
 updated to v5. its a latest selfbot with all cmds workin' and not patched by discord
 banall and kickall working
 open src
@@ -18,4 +18,7 @@ added -
 - 24/7 in vc
 
 
-#risinplayzopforever
+Created by RisinPlayZ
+
+Don't call me a skid it's his creation
+
